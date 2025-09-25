@@ -1,0 +1,15 @@
+- Name: VerthdayCollab
+  Version: 0.0.1
+  Dependencies:
+    - Name: CherryHelper
+      Version: 1.8.2
+    - Name: CrystallineHelper
+      Version: 1.16.6
+    - Name: Everest
+      Version: 1.5806.0
+    - Name: KyfexHelper
+      Version: 0.10.0
+    - Name: MaxHelpingHand
+      Version: 1.38.0
+    - Name: auspicioushelper
+      Version: 0.2.12
