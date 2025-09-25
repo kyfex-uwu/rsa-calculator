@@ -1,2 +1,52 @@
 modname_VerthdayCollab= Verthday Collab
 endscreen_collabname_VerthdayCollab= Verthday
+
+VerthdayCollab_main_MaxAl= Timely Racers
+
+VerthdayCollab_MaxAl_R1_1=
+    [MADELINE left normal] 
+    Heya vert, all dialogue will be done through these miniboxes
+
+VerthdayCollab_MaxAl_R2_1=
+    [MADELINE left normal] 
+    First of all, happy belated birthday!
+
+VerthdayCollab_MaxAl_R3_1=
+    [MADELINE left normal] 
+    Thanks for being an awesome individual!
+
+VerthdayCollab_MaxAl_R4_1=
+    [MADELINE left normal] 
+    Your songs are great and you're very organized. (Good!)
+
+VerthdayCollab_MaxAl_R1_2=
+    [MADELINE left normal] 
+    Well, you did say you liked racing, good luck with your second lap!
+
+VerthdayCollab_MaxAl_R2_2=
+    [MADELINE left normal] 
+    I really appreciate how you are a positive influence on others :3
+
+VerthdayCollab_MaxAl_R3_2=
+    [MADELINE left normal] 
+    You also have some very nice ideas!
+
+VerthdayCollab_MaxAl_R4_2=
+    [MADELINE left normal] 
+    I hope you have a great day today!
+
+VerthdayCollab_MaxAl_R1_3=
+    [MADELINE left normal] 
+    Huh, you must really like racing, then... Good luck on your third lap!
+
+VerthdayCollab_MaxAl_R2_3=
+    [MADELINE left normal] 
+    You should definitely be proud of yourself!
+
+VerthdayCollab_MaxAl_R3_3=
+    [MADELINE left normal] 
+    I hope you continue creating and our friendship persists through time!
+
+VerthdayCollab_MaxAl_R4_3=
+    [MADELINE left normal] 
+    And once again, happy birthday!
