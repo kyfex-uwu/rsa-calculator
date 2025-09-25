@@ -3,6 +3,8 @@
   Dependencies:
     - Name: CherryHelper
       Version: 1.8.2
+    - Name: CollabUtils2
+      Version: 1.10.14
     - Name: CrystallineHelper
       Version: 1.16.6
     - Name: Everest

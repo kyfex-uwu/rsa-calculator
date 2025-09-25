@@ -1,0 +1,2 @@
+modname_VerthdayCollab= Verthday Collab
+endscreen_collabname_VerthdayCollab= Verthday
