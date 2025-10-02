@@ -3,8 +3,6 @@
   Dependencies:
     - Name: AurorasHelper
       Version: 0.12.2
-    - Name: CherryHelper
-      Version: 1.8.2
     - Name: ChroniaHelper
       Version: 1.36.20
     - Name: CollabUtils2
@@ -19,12 +17,16 @@
       Version: 1.5806.0
     - Name: FlaglinesAndSuch
       Version: 1.6.46
+    - Name: ExtendedVariantMode
+      Version: 0.45.0
     - Name: FemtoHelper
       Version: 1.14.6
     - Name: FrostHelper
       Version: 1.73.1
     - Name: GameHelper
       Version: 1.8.5.0
+    - Name: KoseiHelper
+      Version: 1.17.1.0
     - Name: KyfexHelper
       Version: 0.10.0
     - Name: MaxHelpingHand
@@ -43,3 +45,5 @@
       Version: 1.0.76
     - Name: auspicioushelper
       Version: 0.2.12
+    - Name: bitsbolts
+      Version: 1.4.6
