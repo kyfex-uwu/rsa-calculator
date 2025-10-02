@@ -11,12 +11,12 @@
       Version: 1.5.5
     - Name: CrystallineHelper
       Version: 1.16.6
+    - Name: DzhakeHelper
+      Version: 1.4.17
     - Name: EeveeHelper
       Version: 1.12.3
     - Name: Everest
       Version: 1.5806.0
-    - Name: FlaglinesAndSuch
-      Version: 1.6.46
     - Name: ExtendedVariantMode
       Version: 0.45.0
     - Name: FemtoHelper
@@ -31,8 +31,6 @@
       Version: 0.10.0
     - Name: MaxHelpingHand
       Version: 1.38.0
-    - Name: VivHelper
-      Version: 1.14.10
     - Name: PandorasBox
       Version: 1.0.49
     - Name: ProgHelper
