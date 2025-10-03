@@ -37,6 +37,8 @@
       Version: 1.5.0
     - Name: RainTools
       Version: 0.1.0
+    - Name: StyleMaskHelper
+      Version: 1.4.0
     - Name: VivHelper
       Version: 1.14.10
     - Name: XaphanHelper

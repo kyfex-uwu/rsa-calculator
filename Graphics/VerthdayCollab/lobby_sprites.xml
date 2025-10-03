@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sprites>
+  <VerthdayCollab_warpPedestal path="VerthdayCollab/warppedestal/" start="empty">
+    <Justify x="0.5" y="0.92"/>
+    <Loop id="empty" path="main" frames="0-13" delay="0.1"/>
+    <Anim id="before_fill" path="transition" frames="0-3,3*5" delay="0.1" goto="fill"/>
+    <Anim id="fill" path="trans2" frames="0-10,10*3,11-24,10*3,25-38" delay="0.07" goto="full"/>
+    <Loop id="full" path="full" frames="0-13" delay="0.07"/>
+  </VerthdayCollab_warpPedestal>
+</Sprites>
