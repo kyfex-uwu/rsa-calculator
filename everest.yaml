@@ -1,6 +1,8 @@
 - Name: VerthdayCollab
   Version: 0.0.1
   Dependencies:
+    - Name: AidenHelper
+      Version: 1.2.1
     - Name: AurorasHelper
       Version: 0.12.2
     - Name: ChroniaHelper
