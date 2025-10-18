@@ -1,7 +1,9 @@
 modname_VerthdayCollab= Verthday Collab
-endscreen_collabname_VerthdayCollab= Verthday
+endscreen_collabname_VerthdayCollab= Happy Verthday :3
 
+VerthdayCollab_main_kyfex= template move block shenanigans
 VerthdayCollab_main_MaxAl= Timely Racers
+VerthdayCollab_main_wymiki= overgrow
 
 VerthdayCollab_MaxAl_R1_1=
     [MADELINE left normal] 

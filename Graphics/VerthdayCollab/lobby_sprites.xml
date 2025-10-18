@@ -7,4 +7,10 @@
     <Anim id="fill" path="trans2" frames="0-10,10*3,11-24,10*3,25-38" delay="0.07" goto="full"/>
     <Loop id="full" path="full" frames="0-13" delay="0.07"/>
   </VerthdayCollab_warpPedestal>
+  <VerthdayCollab_heartgem path="crystalHeart/VerthdayCollab/green/">
+	<Center />
+	<Loop id="idle" path="" frames="0" />
+	<Loop id="spin" path="" frames="0*10,1-13" delay="0.1"/>
+	<Loop id="fastspin" path="" delay="0.1"/>
+  </VerthdayCollab_heartgem>
 </Sprites>
