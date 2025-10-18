@@ -3412,7 +3412,7 @@
             "SeekerSlowdown":true,
             "__children":[{
                 "Ambience":"event:/env/amb/02_awake",
-                "Music":"event:/music/lvl2/awake",
+                "Music":"event:/music/cassette/04_cliffside",
                 "__name":"audiostate"
               }],
             "TheoInBubble":false,
@@ -3431,13 +3431,13 @@
             "TempoMult":1,
             "__name":"cassettemodifier"
           }],
-        "ForegroundTiles":"Graphics/VerthdayCollab/kyfex_fg.xml",
-        "DarknessAlpha":0.049999997019768,
-        "BackgroundTiles":"Graphics/VerthdayCollab/kyfex_bg.xml",
-        "Dreaming":false,
-        "Sprites":"Graphics/VerthdayCollab/kyfex_sprites.xml",
         "TitleTextColor":"ffffff",
+        "DarknessAlpha":0.049999997019768,
+        "Dreaming":false,
+        "ForegroundTiles":"Graphics/VerthdayCollab/kyfex_fg.xml",
+        "Sprites":"Graphics/VerthdayCollab/kyfex_sprites.xml",
         "OverrideASideMeta":false,
+        "BackgroundTiles":"Graphics/VerthdayCollab/kyfex_bg.xml",
         "__name":"meta",
         "Interlude":false
       }],
