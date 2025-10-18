@@ -294,4 +294,8 @@
   <Tileset id="n" copy="z" path="scifi"/>
   <Tileset id="q" copy="z" path="VerthdayCollab/kyfexuwu/grass" displayName="Grass (Lobby)"/>
   <Tileset id="o" copy="y" path="VerthdayCollab/kyfexuwu/template_stylized"/>
+  <Tileset id="A" copy="y" path="VerthdayCollab/kyfexuwu/cassette_blue" ignores="*"/>
+  <Tileset id="B" copy="y" path="VerthdayCollab/kyfexuwu/cassette_pink" ignores="*"/>
+  <Tileset id="C" copy="y" path="VerthdayCollab/kyfexuwu/cassette_yellow" ignores="*"/>
+  <Tileset id="D" copy="y" path="VerthdayCollab/kyfexuwu/cassette_green" ignores="*"/>
 </Data>
