@@ -9,16 +9,27 @@ CompleteScreen:
         Images: [ "00" ]
         Position: [ -50, -50 ]
       - Type: "layer"
+        Images: [ "01.5" ]
+        Position: [ -50, -50 ]
+        Scroll: [ 0.06 ]
+        Speed: [ 0, 8 ]
+      - Type: "layer"
         Images: [ "01" ]
         Position: [ -50, -50 ]
         Scroll: [ 0.1 ]
+        Speed: [ 0, 30 ]
       - Type: "layer"
         Images: ["02"]
         Position: [ -50, -50 ]
         Scroll: [0.15]
+#      - Type: "layer"
+#        Images: ["03"]
+#        Position: [ -50, -50 ]
+#        Scroll: [0.2]
       - Type: "layer"
-        Images: ["03"]
+        Images: ["04"]
         Position: [ -50, -50 ]
-        Scroll: [0.2]
+        Scroll: [0.4]
+        Speed: [ 0, 50 ]
 
       - Type: "ui"

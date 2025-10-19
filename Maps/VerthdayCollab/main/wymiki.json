@@ -14541,6 +14541,7 @@
         "IntroType":"WakeUp",
         "TitleBaseColor":"6c7c81",
         "BloomBase":0,
+        "DarknessAlpha":0.049999997019768,
         "TitleAccentColor":"2f344b",
         "AnimatedTiles":"Graphics/wymiki/vertlab/AnimatedTiles.xml",
         "__children":[{
@@ -14567,10 +14568,10 @@
             "TempoMult":1,
             "__name":"cassettemodifier"
           }],
-        "TitleTextColor":"ffffff",
-        "DarknessAlpha":0.049999997019768,
-        "Dreaming":false,
         "ForegroundTiles":"Graphics/wymiki/vertlab/ForegroundTiles.xml",
+        "TitleTextColor":"ffffff",
+        "Dreaming":false,
+        "Icon":"areas/VerthdayCollab/wymiki",
         "OverrideASideMeta":false,
         "BloomStrength":1,
         "CassetteSong":"event:/music/cassette/05_mirror_temple",
