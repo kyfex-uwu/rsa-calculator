@@ -8,6 +8,9 @@ poem_VerthdayCollab_0_Lobbies_main_A= happy birthday vert :3
 VerthdayCollab_main_kyfex= template move block shenanigans
 VerthdayCollab_main_MaxAl= Timely Racers
 VerthdayCollab_main_wymiki= overgrow
+VerthdayCollab_main_kyfex_author= from kyfex
+VerthdayCollab_main_MaxAl_author= from MaxAl
+VerthdayCollab_main_wymiki_author= from wymiki
 
 VerthdayCollab_MaxAl_R1_1=
     [MADELINE left normal] 
