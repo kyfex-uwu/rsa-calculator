@@ -1,0 +1,24 @@
+CompleteScreen:
+    Title:
+        ASide: "VerthdayCollab_Complete"
+    Atlas: "Endscreens/VerthdayCollab"
+    Start: [ 0, 100 ]
+    Center: [ 0, 0 ]
+    Layers:
+      - Type: "layer"
+        Images: [ "00" ]
+        Position: [ -50, -50 ]
+      - Type: "layer"
+        Images: [ "01" ]
+        Position: [ -50, -50 ]
+        Scroll: [ 0.1 ]
+      - Type: "layer"
+        Images: ["02"]
+        Position: [ -50, -50 ]
+        Scroll: [0.15]
+      - Type: "layer"
+        Images: ["03"]
+        Position: [ -50, -50 ]
+        Scroll: [0.2]
+
+      - Type: "ui"

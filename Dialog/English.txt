@@ -1,5 +1,9 @@
 modname_VerthdayCollab= Verthday Collab
-endscreen_collabname_VerthdayCollab= Happy Verthday :3
+VerthdayCollab_0_Lobbies_Main= Verthday Collab
+VerthdayCollab_0_Lobbies= Verthday Collab
+endscreen_collabname_VerthdayCollab= Verthday Collab
+VerthdayCollab_Complete=Verthday Collab Complete
+poem_VerthdayCollab_0_Lobbies_main_A= happy birthday vert :3
 
 VerthdayCollab_main_kyfex= template move block shenanigans
 VerthdayCollab_main_MaxAl= Timely Racers
