@@ -1,5 +1,5 @@
 - Name: VerthdayCollab
-  Version: 0.0.1
+  Version: 1.0.1
   Dependencies:
     - Name: AurorasHelper
       Version: 0.12.2
